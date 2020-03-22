@@ -1,5 +1,7 @@
-# CoronaFaceMaskDetectionTFJS
+# TFJS Corona FaceMask Detector 
 Corona Face Mask Detection with Custom Vision and Tensorflow.js
+
+![](https://cdn-images-1.medium.com/max/1800/1*PgkwI-Id6jYEFRnDJR_Yjw.png)
 
 # Training
 This model was trained using the Azure Custom Vision Service. For more details check out the associated blog post!
