@@ -4,7 +4,7 @@ Corona Face Mask Detection with Custom Vision and Tensorflow.js
 ![](https://cdn-images-1.medium.com/max/1800/1*PgkwI-Id6jYEFRnDJR_Yjw.png)
 
 # Training
-This model was trained using the Azure Custom Vision Service. For more details check out the associated blog post!
+This model was trained using the Azure Custom Vision Service. For more details check out the associated [blog post](https://medium.com/microsoftazure/corona-face-mask-detection-with-custom-vision-and-tensorflow-js-86e5fff84373)!
 
 # Usage 
 This Tensorflow.js model for Corona Face Mask Detection can be evaluated using the [Custom Vision Tensorflow.js API](https://github.com/microsoft/customvision-tfjs)
